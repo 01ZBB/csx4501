@@ -74,9 +74,6 @@ if count==1:
 else:
     print('No')
     
-# Write a function that sets a random seed and prints three random numbers between 0 and 1
-# You may find it useful to look up:
-# random.seed and random.random
 import random  
    import random
 random.seed(1)
